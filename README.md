@@ -1,5 +1,5 @@
 # 任务进度
-
+> 选择任务1或任务4
 ## 理论部分
 - Python环境搭建-finish
 - Python基础知识学习-finish
@@ -10,5 +10,5 @@
 - BeautifulSoup库的使用-continue
 
 ## 实践部分
-- Python英汉翻译Ver.1
-- Python英汉翻译Ver.2
+- Python英汉翻译器Ver.1
+- Python英汉翻译器Ver.2
