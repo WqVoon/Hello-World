@@ -13,3 +13,5 @@
 ## 实践部分
 - [Python英汉翻译器Ver.1](http://62.234.101.17/trans1.txt)
 - [Python英汉翻译器Ver.2](http://62.234.101.17/trans2.txt)
+- 任务1.王者荣耀信息爬取
+- 任务2.MyPastebin制作
